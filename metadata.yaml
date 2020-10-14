@@ -1,0 +1,28 @@
+_repo: The-American-Navy-and-Liberia-An-Address-before-the-American-Colonization-Society-January-18-__63279
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shufeldt, Robert Wilson
+    birthdate: 1822
+    deathdate: 1895
+    gutenberg_agent_id: '52339'
+    url: http://www.gutenberg.org/2009/agents/52339
+description: ''
+gutenberg_issued: '2020-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Colonization -- Liberia'
+- !lcsh 'Speeches, addresses, etc.'
+- !lcsh 'United States. Navy'
+- !lcc 'E151'
+- GITenberg
+title: 'The American Navy and Liberia
+
+  An Address before the American Colonization Society, January 18, 1876'
+url: http://www.gutenberg.org/ebooks/63279
